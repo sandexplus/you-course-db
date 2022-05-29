@@ -150,16 +150,17 @@
         ]
       ],
       "id": 1
-    },
+    }
+  ],
+  "photos": [
     {
-      "name": "Test",
-      "admin": false,
-      "login": "test",
-      "tracker": [
-        []
-      ],
-      "trains": [],
-      "id": 2
+      "login": "Test",
+      "works": [
+        {
+          "name": "TestName",
+          "photos": []
+        }
+      ]
     }
   ]
 }
